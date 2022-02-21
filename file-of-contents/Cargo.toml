@@ -1,0 +1,13 @@
+[package]
+name = "ts_131_102"
+version = "0.0.1"
+authors = ["moznion <moznion@mail.moznion.net>"]
+edition = "2021"
+license = "BSD-3-Clause"
+readme = "../README.md"
+repository = "https://github.com/moznion/ts_131_102-rs"
+homepage = "https://github.com/moznion/ts_131_102-rs"
+
+[dependencies]
+anyhow = "1.0.54"
+thiserror = "1.0.30"
